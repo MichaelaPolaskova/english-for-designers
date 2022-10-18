@@ -1,4 +1,4 @@
-# english-for-designers
+# Alternative Text
 
-My class work
+![Placeholder for alt text.](polaskova.png)
 
