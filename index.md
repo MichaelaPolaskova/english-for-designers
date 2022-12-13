@@ -18,4 +18,4 @@ tagline
 
 - [Alternative text](01-alternative-text)
 - First impresion (presentation)
-- Takeaways
+- [Takeaways](takeaways)
