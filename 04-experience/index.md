@@ -1,6 +1,6 @@
 # Experience
 
-[View CV/résumé PDF](Resume ajovt.pdf)
+[View CV/résumé PDF](images/Resume ajovt.pdf)
 
 - - -
 
