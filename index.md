@@ -5,7 +5,7 @@ tagline
 ## about me
 
 - My story
-- Cv/resumé 
+- [Cv/resumé](04- Experience)
 - Voice, Tone, and style guide
 - Contact: michaela201@email.cz
 
