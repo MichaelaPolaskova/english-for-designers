@@ -9,8 +9,7 @@ Welcome to my page!
 
 ## Case studies
 
-- Projekt name?
-- Project Presentation?
+- [Case study](case-study)
 
 ## Class work
 
