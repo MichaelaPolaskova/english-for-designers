@@ -6,7 +6,6 @@ Welcome to my page!
 
 - [Cv/resumé](04-experience)
 - Voice, Tone, and style guide
-- Contact: michaela201@email.cz
 
 ## Case studies
 
