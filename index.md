@@ -5,7 +5,7 @@ Welcome to my page!
 ## about me
 
 - [Cv/resumé](04-experience)
-- Voice, Tone, and style guide
+- [Voice, Tone, and style guide](voice&tone)
 
 ## Case studies
 
