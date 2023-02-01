@@ -11,7 +11,7 @@ I studied graphic design in high school and now I study it at VŠKK. I'm graduat
 
 ## about me
 
-- [Cv/resumé](04-Experience)
+- [Cv/resumé](04-experience)
 - Voice, Tone, and style guide
 - Contact: michaela201@email.cz
 
