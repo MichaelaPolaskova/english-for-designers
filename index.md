@@ -23,5 +23,5 @@ I studied graphic design in high school and now I study it at VŠKK. I'm graduat
 ## Class work
 
 - [Alternative text](01-alternative-text)
-- [First impression](02-first-impression)
+- [First impression](first-impression)
 - [Takeaways](takeaways)
