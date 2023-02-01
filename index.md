@@ -15,4 +15,4 @@ Welcome to my page!
 
 - [Alternative text](01-alternative-text)
 - [First impression](first-impression)
-- [Takeaways](takeaways)
+- [Takeaways](takeaway)
