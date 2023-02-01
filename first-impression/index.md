@@ -1,7 +1,7 @@
 # ABOUT ME
 
 Hi, my name is Michaela Polášková. I am a graphic designer. Now I working in Konektime. I make graphics for the film platform called České kino.
-(check it - https://www.ceskekino.cz/cs)
+(check it - www.ceskekino.cz)
 
 I liked to paint since I was little girl and I wanted to be a painter. luckily I changed my mind and I chose graphic design. But I still love the illustration.
 
