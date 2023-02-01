@@ -36,7 +36,6 @@ LUNA ATELIER
 - Adobe Photoshop
 - Adobe Indesign
 
-
 - Adobe XD
 - Adobe Dimension
 - Figma
