@@ -16,7 +16,7 @@ https://michaela201.myportfolio.com
 
 - VŠKK - Graphic and media design (Prague)
 
-### 2016 - 2020 Prague
+### 2016 - 2020
 
 - GAPE - Graphic design (Prague)
 
