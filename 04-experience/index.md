@@ -1,7 +1,7 @@
 # Experience
 
 
-### CONTAKT
+### CONTACT
 
 michaela201@email.cz
 
