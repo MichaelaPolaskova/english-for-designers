@@ -19,9 +19,10 @@ So I have a pattern that I follow. It's easy.
 when I make posts to the social media, I take a screenshot of the movie first. I have to find an interesting moment.
 Then I add filters and the necessary things to it.
 
-![aj](https://user-images.githubusercontent.com/116068699/216063051-dc361db3-6950-40f7-964d-56d65530637a.png)
-![aj2](https://user-images.githubusercontent.com/116068699/216064155-5770e6ff-e23d-485d-a860-5a40b72d68e8.png)
+
+## Final![aj](https://user-images.githubusercontent.com/116068699/216844631-57809358-2e72-4ea0-a575-8a26fde0155f.jpg)
+![aj2](https://user-images.githubusercontent.com/116068699/216844632-3a3e0fff-8aed-424f-89c1-b33057ab3d5f.jpg)
 
 
-## Final
+
 It is a long-term cooperation. I enjoy it and it's not difficult. It takes me about 30 hours a month and I work from home. I hope to stay here until the end of college.
