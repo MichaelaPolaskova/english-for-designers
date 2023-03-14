@@ -13,6 +13,12 @@ Welcome to my page!
 
 ## Class work
 
+### Winter
+
 - [Alternative text](01-alternative-text)
 - [First impression](first-impression)
 - [Takeaways](takeaway)
+
+### Summer
+
+- [Storytelling](06 - Storytelling)
