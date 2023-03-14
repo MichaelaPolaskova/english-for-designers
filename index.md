@@ -21,4 +21,4 @@ Welcome to my page!
 
 ### Summer
 
-- [Storytelling](06 - Storytelling)
+- [Storytelling](06-storytelling)
