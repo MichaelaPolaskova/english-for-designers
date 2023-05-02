@@ -2,9 +2,9 @@
 
 Welcome to my page!
 
-## about me
+## About Me
 
-- [Cv/resumé](04-experience)
+- [CV/resumé](04-experience)
 - [Voice, Tone, and style guide](voice&tone)
 
 ## Case studies
