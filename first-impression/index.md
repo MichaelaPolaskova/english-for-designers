@@ -1,11 +1,11 @@
 # ABOUT ME
 
-Hi, my name is Michaela Polášková. I am a graphic designer. Now I working in Konektime. I make graphics for the film platform called České kino.
-(check it - www.ceskekino.cz)
+Hi, my name is Michaela Polášková. I'm a graphic designer, currently working in Konektime. I make graphics for their film platform called České kino.
+(check it out: www.ceskekino.cz)
 
-I liked to paint since I was little girl and I wanted to be a painter. luckily I changed my mind and I chose graphic design. But I still love the illustration.
+I have liked to paint since I was little girl and I wanted to be a painter. Luckily, I changed my mind, and I chose graphic design. But I still love illustration.
 
-I studied graphic design in high school and now I study it at VŠKK. I'm graduating this year so i hope that next year I find a job that I will love.
+I studied graphic design in high school and am now at University of Creative Communication (VŠKK). I'm graduating this year (2023), and I hope in the next year to find a job that I will love.
 
 
 Here are some of my works - https://michaela201.myportfolio.com
