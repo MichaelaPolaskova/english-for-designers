@@ -1,7 +1,6 @@
 # ČESKÉ KINO (CZECH CINEMA)
 
-In november i started working in a company called Konektime. They were starting a new project. It is a streaming service focused on Czech films.
-It works from the beginning of December 2022.
+In November of 2022, I started working for a company called Konektime. They were starting a new project České Kino (Czech Cinema). It’s a streaming service focused on Czech films and became available to the public at the beginning of December 2022.
 
 My work is posts on social networks, posters and banners for websites. The graphic designer who created the logo and the entire visual prepared the materials for me.
 So I have a pattern that I follow. It's easy.
@@ -16,7 +15,7 @@ So I have a pattern that I follow. It's easy.
 
 ## Social sites
 
-when I make posts to the social media, I take a screenshot of the movie first. I have to find an interesting moment.
+When I make posts to the social media, I take a screenshot of the movie first. I have to find an interesting moment.
 Then I add filters and the necessary things to it.
 
 
