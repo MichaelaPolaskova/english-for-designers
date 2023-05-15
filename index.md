@@ -24,3 +24,4 @@ Welcome to my page!
 - [Storytelling](06-storytelling)
 - [Final thesis](final_thesis)
 - [Abstract](abstract)
+- [Year end review](year_end_review)
