@@ -7,16 +7,11 @@ Welcome to my page!
 - [CV/resumé](04-experience)
 - [Voice, Tone, and style guide](voice&tone)
 
-## Case studies
-
-- [Case study](case-study)
-
-## Class work
-
 ### Winter
 
 - [Alternative text](01-alternative-text)
 - [First impression](first-impression)
+- [Case study](case-study)
 - [Takeaways](takeaway)
 
 ### Summer
