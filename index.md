@@ -22,3 +22,5 @@ Welcome to my page!
 ### Summer
 
 - [Storytelling](06-storytelling)
+- [Final thesis](final_thesis)
+- [Abstract](abstract)
