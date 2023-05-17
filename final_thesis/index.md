@@ -39,9 +39,13 @@ The first line of letter is tower with battlement. The rest of the letter is plu
 
 <img width="897" alt="Snímek obrazovky 2023-05-17 v 13 25 51" src="https://github.com/MichaelaPolaskova/english-for-designers/assets/116068699/bf997da2-7a48-4350-8670-ed47bfdf7650">
 
+I created pictograms that characterize the festival. All things contained in pictograms can be connected with a plus sign. For example, music + beer.
+
 <img width="1022" alt="Snímek obrazovky 2023-05-17 v 13 31 55" src="https://github.com/MichaelaPolaskova/english-for-designers/assets/116068699/3a62fadf-923c-4b20-bc9b-f3d9cbbbe5ac">
 
 ### Pictograms
+
+Pictograms that represent the castles where the festival takes place.
 
 <img width="832" alt="Snímek obrazovky 2023-05-17 v 13 33 27" src="https://github.com/MichaelaPolaskova/english-for-designers/assets/116068699/a56cdf22-2096-4a67-bfd4-09d351686813">
 
