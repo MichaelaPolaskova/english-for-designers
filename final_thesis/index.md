@@ -66,7 +66,11 @@ All monuments would have a QR code at the reception, which the visitor would rea
 
 <img width="1060" alt="Snímek obrazovky 2023-05-17 v 13 40 09" src="https://github.com/MichaelaPolaskova/english-for-designers/assets/116068699/077b0e26-e8a3-400f-a38c-43cec7b55800">
 
+As the festival takes place in the open air, the visitor must be prepared for any weather. That's why I designed hats in two color variants that protect visitors from the sun, but also umbrellas that protect them from the rain.
+
 <img width="1065" alt="Snímek obrazovky 2023-05-17 v 13 39 23" src="https://github.com/MichaelaPolaskova/english-for-designers/assets/116068699/644341dd-8c79-4474-9906-6184965f4f30">
+
+I also designed packaging for "you + me" condoms, which serve more for entertainment, but also as a funny souvenir that visitors can bring home to their partners.
 
 <img width="1059" alt="Snímek obrazovky 2023-05-17 v 13 39 51" src="https://github.com/MichaelaPolaskova/english-for-designers/assets/116068699/f08b07eb-a947-4ed5-ac31-f0ac1b961121">
 
